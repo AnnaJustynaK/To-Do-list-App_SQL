@@ -39,6 +39,3 @@ Required software:
 
 This app is built with HTML, CSS, Javascript, jQuery, Bootstrap, SweetAlert, Ajax, Postgres, and SQL.
 
-## Acknowledgement
-
-Thanks to [Prime Digital Academy](www.primeacademy.io) who equipped and helped me to make this application a reality.
