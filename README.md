@@ -8,7 +8,8 @@ This To Do List app allows a user to submit custom to do list tasks. Upon submis
 
 Designed responsively to show on smaller device screens.
 
-![To Do List App
+![To Do List App 
+![2023-07-14_09h50_03](https://github.com/AnnaJustynaK/To-Do-list-App_SQL/assets/87768750/8bda770c-9ede-4a7a-8548-c06f4880bb17)
 
 ### Prerequisite
 
